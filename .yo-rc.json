@@ -1,0 +1,15 @@
+{
+  "generator-cpui": {
+    "rootModule": "fs.system",
+    "namespace": "fs.",
+    "paths": {
+      "scripts": "scripts",
+      "styles": "styles",
+      "specs": "tests"
+    },
+    "separators": {
+      "pre": "#== ",
+      "post": "#/= "
+    }
+  }
+}
