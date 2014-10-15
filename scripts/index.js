@@ -1,4 +1,4 @@
-angular.module('fs.system', ['ngRoute'])
+angular.module('fs.system')
   .run(function ($window) {
     console.log('adsfsdfsadf')
     var parser = new UAParser()
